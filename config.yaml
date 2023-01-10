@@ -1,0 +1,9 @@
+route_one:
+  auth: true
+  cache: 60
+  methods:
+    - POST
+route_two:
+  auth: false
+  cache: 0
+
