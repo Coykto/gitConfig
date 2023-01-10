@@ -6,4 +6,5 @@ route_one:
 route_two:
   auth: false
   cache: 0
-
+  methods:
+    - POST
